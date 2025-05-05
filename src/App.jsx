@@ -141,3 +141,11 @@ ${data?.weather?.[0]?.description}` }  <img src={icon2} alt="city is not found" 
   );
 }
 export default App;
+/* 
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dheeraj087/weather.git
+git push -u origin main
+*/
